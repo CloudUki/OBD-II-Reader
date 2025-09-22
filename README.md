@@ -10,3 +10,6 @@
 - Python
 - Raspberry PI 3
 - PI Screen
+
+# What Needs To Get Done:
+- Need a different USB - OBD-II connector
